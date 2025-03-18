@@ -52,7 +52,7 @@ I love developing games and game engines! This is my work and my hobby. In my fr
 
 1. [**Kitsune**](https://github.com/J-CITY/Kitsune) - Music player with text user interface.
 
-2. [**VideoPlayer**](https://github.com/J-CITY/videoPlayer) - Video player with dynamic subtitles translation
+2. [**Sparrow**](https://github.com/J-CITY/videoPlayer) - Video player with dynamic subtitles translation
 
 #### 🔧 Utils
 
